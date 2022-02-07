@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class CyclicallyRotate { 
+public class CyclicallyRotate {  
     static int arr[] = new int[] { 1, 2, 3, 4, 5 }; 
  
     static void rotate() {
