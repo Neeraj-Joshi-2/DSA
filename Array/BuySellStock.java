@@ -3,7 +3,7 @@ public class BuySellStock {
     static int maxProfit(int prices[]){
         int profit=0, left=0, right=1, currentProfit ;
         while(right<prices.length){
-            currentProfit = prices[right] - prices[left];
+            currentProfit = prices[right] - prices[left]; 
             if(prices[left] < prices[right]){ 
                 profit = Math.max(currentProfit,profit) ;
             }
