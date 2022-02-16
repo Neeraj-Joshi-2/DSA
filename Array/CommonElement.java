@@ -1,7 +1,7 @@
 
 class CommonElement {
  
-    void findCommon(int ar1[], int ar2[], int ar3[])
+    void findCommon(int ar1[], int ar2[], int ar3[]) 
     {
         int i = 0, j = 0, k = 0;
 
