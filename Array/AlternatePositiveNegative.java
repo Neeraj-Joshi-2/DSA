@@ -6,7 +6,7 @@ class AlternatePositiveNegative {
 	{
 		int i = -1, temp = 0;
 		for (int j = 0; j < n; j++)
-		{
+		{ 
 			if (arr[j] < 0)
 			{
 				i++;
