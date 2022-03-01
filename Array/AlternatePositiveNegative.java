@@ -41,6 +41,6 @@ class AlternatePositiveNegative {
 		rearrange(arr,n);
 		System.out.println("Array after rearranging: ");
 		printArray(arr,n);
-	}
+	} 
 }
  
