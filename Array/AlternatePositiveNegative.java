@@ -43,3 +43,4 @@ class AlternatePositiveNegative {
 		printArray(arr,n);
 	}
 }
+ 
