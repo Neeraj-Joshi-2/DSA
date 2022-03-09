@@ -3,7 +3,7 @@
 class AlternatePositiveNegative {
 
 	static void rearrange(int arr[], int n)
-	{ 
+	{  
 		int i = -1, temp = 0;
 		for (int j = 0; j < n; j++)
 		{ 
