@@ -1,5 +1,3 @@
- 
-
 class AlternatePositiveNegative {
 
 	static void rearrange(int arr[], int n)
